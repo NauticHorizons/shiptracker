@@ -3,23 +3,22 @@
 
 # Ship MMSI filters - list of MMSI numbers to monitor
 # Example: ["244528000", "123456789", "987654321"]
-# REGINA MARIS is: "244528000"
-FILTERS_SHIP_MMSI_ID = ["244528000","268855"]
+FILTERS_SHIP_MMSI_ID = ["244528000"]  # REGINA MARIS
 
 # Vessel Information
 VESSEL_INFO = {
     'name': 'Regina Maris',
-    'prefix': 'S/V',  # Motor Vessel, S/Y for Sailing Yacht, etc.
-    'mmsi': FILTERS_SHIP_MMSI_ID[0],  # Will be overridden by data if available
-    'imo': FILTERS_SHIP_MMSI_ID[1],
+    'prefix': 'S/V',  # Sailing Vessel
+    'mmsi': '244528000',
+    'imo': '7025126',
     'call_sign': 'unknown',
-    'flag_state': 'Niederlande',
-    'vessel_type': 'Segelschiff',
-    'gross_tonnage': 'tbd',
-    'length': 'tbd',  # meters
-    'beam': 'tbd',  # meters
-    'draft': 'tbd',  # meters
-    'master': 'Captain J. Smith',
+    'flag_state': 'The Netherlands',
+    'vessel_type': 'Three-masted topsail schooner (sailing vessel)',
+    'gross_tonnage': '153 GT',
+    'length': '48 m',
+    'beam': '6.9 m',
+    'draft': '2.9 m',
+    'master': 'tbd',
     'owner': 'tbd'
 }
 
@@ -28,13 +27,13 @@ LOGBOOK_SETTINGS = {
     'title': 'NAUTISCHES LOGBUCH',
     'subtitle': 'Fahrtenbuch',
     'show_mmsi': True,
-    'show_imo': False,
+    'show_imo': True,
     'show_call_sign': False,
     'show_flag_state': True,
     'show_vessel_type': True,
     'show_master': False,
-    'show_gross_tonnage': False,
-    'show_dimensions': False
+    'show_gross_tonnage': True,
+    'show_dimensions': True
 }
 
 # Maximum monitoring duration in minutes
