@@ -3,7 +3,7 @@
 
 # Ship MMSI filters - list of MMSI numbers to monitor
 # Example: ["244528000", "123456789", "987654321"]
-FILTERS_SHIP_MMSI_ID = ["244528000"]  # REGINA MARIS
+FILTERS_SHIP_MMSI_ID = ["244528000","268855"]
 
 # Vessel Information
 VESSEL_INFO = {
