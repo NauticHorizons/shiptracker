@@ -6,9 +6,11 @@ concurrency:
 
 on:
   schedule:
-  - cron:  '15,45 * * * *'
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
   
 jobs:
   build:
