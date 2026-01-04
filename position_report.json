@@ -10,7 +10,7 @@
     "wassertemperatur": 28.0,
     "wellenhoehe": 0.76
   },
-  "timestamp_utc": "2026-01-04T19:47:00+00:00",
+  "timestamp_utc": "2026-01-04T19:56:00+00:00",
   "PositionReport": {
     "Cog": 360,
     "CommunicationState": 999,
@@ -22,7 +22,7 @@
     "Raim": true,
     "RateOfTurn": 999,
     "RepeatIndicator": 999,
-    "Sog": 0.0,
+    "Sog": 0.1,
     "Spare": 999,
     "SpecialManoeuvreIndicator": 999,
     "Timestamp": 999,
@@ -36,6 +36,6 @@
     "ShipName": "REGINA MARIS",
     "latitude": 11.2431,
     "longitude": -74.21759,
-    "time_utc": "2026-01-04T19:47:00+00:00"
+    "time_utc": "2026-01-04T19:56:00+00:00"
   }
 }
