@@ -976,26 +976,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.55577,
-          9.74278
+          -78.64067,
+          9.70638
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "08.01.2026",
-        "timestamp_utc": "2026-01-08T09:58:01+00:00",
-        "cog": 236.0,
-        "sog": 4.3,
+        "timestamp_utc": "2026-01-08T10:58:12+00:00",
+        "cog": 255.0,
+        "sog": 6.5,
         "navigational_status": 0,
         "wetterzustand": "Teilweise bew\u00f6lkt",
-        "luftdruck": 1008.6,
-        "windrichtung": 38.0,
-        "windstaerke": 28.4,
-        "bewoelkung": 47.0,
-        "lufttemperatur": 27.9,
+        "luftdruck": 1009.6,
+        "windrichtung": 41.0,
+        "windstaerke": 28.6,
+        "bewoelkung": 51.0,
+        "lufttemperatur": 28.1,
         "wassertemperatur": 28.0,
         "niederschlag": 0.0,
-        "wellenhoehe": 1.84
+        "wellenhoehe": 1.8
       }
     }
   ]
