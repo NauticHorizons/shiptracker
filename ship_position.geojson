@@ -1096,6 +1096,33 @@
         "sog": 0.9,
         "navigational_status": 0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76691,
+          20.61256
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "17.02.2026",
+        "timestamp_utc": "2026-02-17T13:15:24+00:00",
+        "cog": 258.0,
+        "sog": 8.5,
+        "navigational_status": 0,
+        "wetterzustand": "Teilweise bew\u00f6lkt",
+        "luftdruck": 1017.3,
+        "windrichtung": 61.0,
+        "windstaerke": 12.7,
+        "bewoelkung": 55.0,
+        "lufttemperatur": 24.6,
+        "wassertemperatur": 26.5,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.66
+      }
     }
   ]
 }
