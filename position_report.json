@@ -1,21 +1,21 @@
 {
   "WeatherData": {
     "wetterzustand": "Teilweise bew\u00f6lkt",
-    "luftdruck": 1012.4,
-    "windrichtung": 128,
-    "windstaerke": 22.3,
+    "luftdruck": 1012.5,
+    "windrichtung": 126,
+    "windstaerke": 23.2,
     "bewoelkung": 49,
     "lufttemperatur": 25.6,
     "niederschlag": 0.0,
     "wassertemperatur": 26.5,
     "wellenhoehe": 0.42
   },
-  "timestamp_utc": "2026-02-19T10:03:05+00:00",
+  "timestamp_utc": "2026-02-19T10:54:04+00:00",
   "PositionReport": {
     "Cog": 360,
     "CommunicationState": 999,
-    "Latitude": 20.51534,
-    "Longitude": -86.94953,
+    "Latitude": 20.51531,
+    "Longitude": -86.94952,
     "MessageID": 999,
     "NavigationalStatus": 1,
     "PositionAccuracy": true,
@@ -34,8 +34,8 @@
     "MMSI": "244528000",
     "MMSI_String": "244528000",
     "ShipName": "REGINA MARIS",
-    "latitude": 20.51534,
-    "longitude": -86.94953,
-    "time_utc": "2026-02-19T10:03:05+00:00"
+    "latitude": 20.51531,
+    "longitude": -86.94952,
+    "time_utc": "2026-02-19T10:54:04+00:00"
   }
 }
