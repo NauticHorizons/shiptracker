@@ -1183,22 +1183,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.46146,
-          32.41137
+          -64.44122,
+          32.41587
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "12.03.2026",
-        "timestamp_utc": "2026-03-12T22:49:55+00:00",
-        "cog": 71.0,
-        "sog": 3.9,
+        "timestamp_utc": "2026-03-12T23:05:54+00:00",
+        "cog": 75.0,
+        "sog": 4.0,
         "navigational_status": 0,
         "wetterzustand": "\u00dcberwiegend klar",
         "luftdruck": 1020.0,
         "windrichtung": 184.0,
         "windstaerke": 19.1,
-        "bewoelkung": 36.0,
+        "bewoelkung": 43.0,
         "lufttemperatur": 20.7,
         "wassertemperatur": 20.3,
         "niederschlag": 0.0,
