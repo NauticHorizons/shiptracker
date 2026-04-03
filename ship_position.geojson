@@ -1291,26 +1291,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -27.45672,
-          39.0226
+          -27.41651,
+          39.03341
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "03.04.2026",
-        "timestamp_utc": "2026-04-03T17:03:08+00:00",
-        "cog": 69.0,
-        "sog": 7.0,
+        "timestamp_utc": "2026-04-03T17:19:48+00:00",
+        "cog": 70.0,
+        "sog": 7.1,
         "navigational_status": 0,
         "wetterzustand": "Sonnig",
-        "luftdruck": 1024.0,
-        "windrichtung": 216.0,
-        "windstaerke": 9.8,
+        "luftdruck": 1023.6,
+        "windrichtung": 219.0,
+        "windstaerke": 9.7,
         "bewoelkung": 0.0,
-        "lufttemperatur": 15.0,
+        "lufttemperatur": 15.1,
         "wassertemperatur": 16.5,
         "niederschlag": 0.0,
-        "wellenhoehe": 1.82
+        "wellenhoehe": 1.84
       }
     }
   ]
