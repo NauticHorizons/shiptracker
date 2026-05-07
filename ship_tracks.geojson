@@ -5281,14 +5281,18 @@
           [
             4.57908,
             52.4587
+          ],
+          [
+            4.57954,
+            52.45908
           ]
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "start_time": "2025-10-17T08:39:46+00:00",
-        "end_time": "2026-04-22T18:18:58+00:00",
-        "total_points": 1319,
+        "end_time": "2026-05-07T05:08:33+00:00",
+        "total_points": 1320,
         "track_type": "AIS_position_reports"
       }
     }
