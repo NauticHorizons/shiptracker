@@ -1,14 +1,14 @@
 {
   "WeatherData": {
-    "wetterzustand": "Leichter Spr\u00fchregen",
-    "luftdruck": 997.1,
-    "windrichtung": 260,
-    "windstaerke": 7.9,
-    "bewoelkung": 58,
-    "lufttemperatur": 9.1,
-    "niederschlag": 0.1,
+    "wetterzustand": "Bedeckt",
+    "luftdruck": 996.9,
+    "windrichtung": 241,
+    "windstaerke": 6.8,
+    "bewoelkung": 88,
+    "lufttemperatur": 8.7,
+    "niederschlag": 0.0,
     "wassertemperatur": 11.8,
-    "wellenhoehe": 0.66
+    "wellenhoehe": 0.64
   },
   "timestamp_utc": "2026-05-13T20:04:59+00:00",
   "PositionReport": {
