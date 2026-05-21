@@ -5325,14 +5325,18 @@
           [
             6.80004,
             53.73764
+          ],
+          [
+            7.67542,
+            53.90803
           ]
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "start_time": "2025-10-17T08:39:46+00:00",
-        "end_time": "2026-05-21T08:21:20+00:00",
-        "total_points": 1330,
+        "end_time": "2026-05-21T11:53:11+00:00",
+        "total_points": 1331,
         "track_type": "AIS_position_reports"
       }
     }
