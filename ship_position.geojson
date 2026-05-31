@@ -1721,26 +1721,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.40896,
-          54.66526
+          10.28114,
+          54.51393
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "31.05.2026",
-        "timestamp_utc": "2026-05-31T09:43:54+00:00",
-        "cog": 204.0,
-        "sog": 7.0,
+        "timestamp_utc": "2026-05-31T11:25:15+00:00",
+        "cog": 203.0,
+        "sog": 5.8,
         "navigational_status": 0,
         "wetterzustand": "Bedeckt",
-        "luftdruck": 1013.6,
-        "windrichtung": 278.0,
-        "windstaerke": 8.0,
+        "luftdruck": 1013.4,
+        "windrichtung": 14.0,
+        "windstaerke": 7.4,
         "bewoelkung": 100.0,
-        "lufttemperatur": 13.4,
-        "wassertemperatur": 15.4,
+        "lufttemperatur": 13.7,
+        "wassertemperatur": 16.0,
         "niederschlag": 0.0,
-        "wellenhoehe": 0.12
+        "wellenhoehe": 0.08
       }
     }
   ]
