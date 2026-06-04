@@ -1801,26 +1801,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.09133,
-          54.48921
+          10.15734,
+          54.33574
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "04.06.2026",
-        "timestamp_utc": "2026-06-04T10:47:16+00:00",
-        "cog": 86.0,
-        "sog": 6.9,
-        "navigational_status": 0,
-        "wetterzustand": "Leichter Regen",
-        "luftdruck": 1000.4,
-        "windrichtung": 195.0,
-        "windstaerke": 25.0,
-        "bewoelkung": 100.0,
-        "lufttemperatur": 16.8,
-        "wassertemperatur": 15.8,
-        "niederschlag": 0.0,
-        "wellenhoehe": 0.26
+        "timestamp_utc": "2026-06-04T13:53:17+00:00",
+        "cog": 360.0,
+        "sog": 0.0,
+        "navigational_status": 8,
+        "wassertemperatur": 17.5,
+        "wellenhoehe": 0.22
       }
     }
   ]
