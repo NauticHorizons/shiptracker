@@ -1902,17 +1902,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.49836,
-          54.81365
+          10.23446,
+          54.46439
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "11.06.2026",
-        "timestamp_utc": "2026-06-11T09:21:52+00:00",
-        "cog": 220.3,
+        "timestamp_utc": "2026-06-11T13:10:02+00:00",
+        "cog": 197.0,
         "sog": 7.9,
-        "navigational_status": 8
+        "navigational_status": 0
       }
     }
   ]
