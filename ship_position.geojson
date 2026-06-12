@@ -1923,6 +1923,33 @@
         "niederschlag": 0.0,
         "wellenhoehe": 0.1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15734,
+          54.33571
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "12.06.2026",
+        "timestamp_utc": "2026-06-12T09:17:28+00:00",
+        "cog": 360.0,
+        "sog": 0.1,
+        "navigational_status": 5,
+        "wetterzustand": "Leichte Regenschauer",
+        "luftdruck": 1014.7,
+        "windrichtung": 199.0,
+        "windstaerke": 9.9,
+        "bewoelkung": 99.0,
+        "lufttemperatur": 14.2,
+        "wassertemperatur": 17.2,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.08
+      }
     }
   ]
 }
