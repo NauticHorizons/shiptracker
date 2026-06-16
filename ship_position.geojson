@@ -1984,25 +1984,25 @@
         "type": "Point",
         "coordinates": [
           10.67189,
-          54.75217
+          54.75209
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "16.06.2026",
-        "timestamp_utc": "2026-06-16T12:33:55+00:00",
+        "timestamp_utc": "2026-06-16T17:51:47+00:00",
         "cog": 360.0,
-        "sog": 0.3,
+        "sog": 0.0,
         "navigational_status": 8,
-        "wetterzustand": "Bedeckt",
-        "luftdruck": 1014.2,
-        "windrichtung": 288.0,
-        "windstaerke": 20.8,
-        "bewoelkung": 90.0,
-        "lufttemperatur": 14.1,
-        "wassertemperatur": 16.8,
+        "wetterzustand": "Teilweise bew\u00f6lkt",
+        "luftdruck": 1014.8,
+        "windrichtung": 289.0,
+        "windstaerke": 15.3,
+        "bewoelkung": 71.0,
+        "lufttemperatur": 14.0,
+        "wassertemperatur": 16.9,
         "niederschlag": 0.0,
-        "wellenhoehe": 0.38
+        "wellenhoehe": 0.36
       }
     }
   ]
