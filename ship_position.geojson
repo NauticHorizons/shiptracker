@@ -2030,6 +2030,33 @@
         "wassertemperatur": 15.4,
         "niederschlag": 0.2
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18919,
+          54.37891
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "19.06.2026",
+        "timestamp_utc": "2026-06-19T16:44:22+00:00",
+        "cog": 32.6,
+        "sog": 6.7,
+        "navigational_status": 5,
+        "wetterzustand": "Sonnig",
+        "luftdruck": 1015.3,
+        "windrichtung": 75.0,
+        "windstaerke": 12.3,
+        "bewoelkung": 0.0,
+        "lufttemperatur": 26.4,
+        "wassertemperatur": 19.4,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.06
+      }
     }
   ]
 }
