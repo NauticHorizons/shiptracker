@@ -2063,26 +2063,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1965,
-          54.38723
+          10.20452,
+          54.41103
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "27.06.2026",
-        "timestamp_utc": "2026-06-27T09:53:29+00:00",
-        "cog": 26.5,
-        "sog": 3.9,
+        "timestamp_utc": "2026-06-27T11:51:57+00:00",
+        "cog": 197.1,
+        "sog": 2.9,
         "navigational_status": 8,
-        "wetterzustand": "Teilweise bew\u00f6lkt",
-        "luftdruck": 1016.1,
-        "windrichtung": 225.0,
-        "windstaerke": 2.5,
-        "bewoelkung": 62.0,
-        "lufttemperatur": 32.6,
-        "wassertemperatur": 21.1,
+        "wetterzustand": "\u00dcberwiegend klar",
+        "luftdruck": 1016.2,
+        "windrichtung": 41.0,
+        "windstaerke": 7.1,
+        "bewoelkung": 40.0,
+        "lufttemperatur": 34.3,
+        "wassertemperatur": 21.6,
         "niederschlag": 0.0,
-        "wellenhoehe": 0.04
+        "wellenhoehe": 0.02
       }
     }
   ]
