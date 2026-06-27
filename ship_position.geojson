@@ -2057,24 +2057,6 @@
         "niederschlag": 0.0,
         "wellenhoehe": 0.08
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.20102,
-          54.4041
-        ]
-      },
-      "properties": {
-        "mmsi": 244528000,
-        "date": "27.06.2026",
-        "timestamp_utc": "2026-06-27T18:57:09+00:00",
-        "cog": 189.3,
-        "sog": 3.7,
-        "navigational_status": 8
-      }
     }
   ]
 }
