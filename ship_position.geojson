@@ -2278,25 +2278,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.84939,
-          54.47258
+          10.16078,
+          54.33983
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "10.07.2026",
-        "timestamp_utc": "2026-07-10T08:07:29+00:00",
-        "cog": 119.0,
-        "sog": 8.3,
-        "navigational_status": 0,
-        "wetterzustand": "\u00dcberwiegend klar",
-        "luftdruck": 1018.0,
-        "windrichtung": 323.0,
-        "windstaerke": 9.5,
-        "bewoelkung": 23.0,
-        "lufttemperatur": 19.3,
-        "wassertemperatur": 18.1,
-        "niederschlag": 0.0
+        "timestamp_utc": "2026-07-10T11:21:30+00:00",
+        "cog": 201.2,
+        "sog": 8.0,
+        "navigational_status": 8,
+        "wetterzustand": "Sonnig",
+        "luftdruck": 1018.3,
+        "windrichtung": 22.0,
+        "windstaerke": 10.5,
+        "bewoelkung": 11.0,
+        "lufttemperatur": 22.3,
+        "wassertemperatur": 19.7,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.14
       }
     }
   ]
