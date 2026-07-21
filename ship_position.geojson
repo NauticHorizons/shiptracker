@@ -2331,23 +2331,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.34742,
-          55.00789
+          10.3474,
+          55.00783
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "21.07.2026",
-        "timestamp_utc": "2026-07-21T21:32:50+00:00",
+        "timestamp_utc": "2026-07-21T22:29:50+00:00",
         "cog": 360.0,
-        "sog": 0.2,
-        "navigational_status": 0,
-        "wetterzustand": "\u00dcberwiegend klar",
-        "luftdruck": 1019.8,
-        "windrichtung": 288.0,
-        "windstaerke": 32.8,
-        "bewoelkung": 30.0,
-        "lufttemperatur": 15.9,
+        "sog": 0.0,
+        "navigational_status": 1,
+        "wetterzustand": "Bedeckt",
+        "luftdruck": 1019.2,
+        "windrichtung": 287.0,
+        "windstaerke": 31.7,
+        "bewoelkung": 96.0,
+        "lufttemperatur": 16.0,
         "wassertemperatur": 20.2,
         "niederschlag": 0.0,
         "wellenhoehe": 0.56
