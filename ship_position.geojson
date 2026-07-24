@@ -2412,24 +2412,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.52183,
-          55.01939
+          10.52181,
+          54.85636
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "24.07.2026",
-        "timestamp_utc": "2026-07-24T07:23:48+00:00",
-        "cog": 225.0,
-        "sog": 8.3,
-        "navigational_status": 0,
+        "timestamp_utc": "2026-07-24T10:07:08+00:00",
+        "cog": 360.0,
+        "sog": 0.0,
+        "navigational_status": 1,
         "wetterzustand": "Bedeckt",
-        "luftdruck": 1015.6,
-        "windrichtung": 288.0,
+        "luftdruck": 1016.0,
+        "windrichtung": 305.0,
         "windstaerke": 23.0,
-        "bewoelkung": 99.0,
-        "lufttemperatur": 16.4,
-        "wassertemperatur": 19.7,
+        "bewoelkung": 100.0,
+        "lufttemperatur": 16.9,
+        "wassertemperatur": 19.6,
         "niederschlag": 0.0,
         "wellenhoehe": 0.4
       }
