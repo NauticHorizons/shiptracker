@@ -2621,6 +2621,33 @@
         "wassertemperatur": 20.1,
         "niederschlag": 0.0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01315,
+          54.48392
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "02.08.2026",
+        "timestamp_utc": "2026-08-02T06:47:50+00:00",
+        "cog": 81.5,
+        "sog": 5.6,
+        "navigational_status": 5,
+        "wetterzustand": "Teilweise bew\u00f6lkt",
+        "luftdruck": 1020.5,
+        "windrichtung": 222.0,
+        "windstaerke": 9.7,
+        "bewoelkung": 66.0,
+        "lufttemperatur": 16.2,
+        "wassertemperatur": 19.7,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.04
+      }
     }
   ]
 }
