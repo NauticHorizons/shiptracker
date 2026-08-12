@@ -2735,24 +2735,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.74824,
-          54.5155
+          10.45646,
+          54.47242
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "12.08.2026",
-        "timestamp_utc": "2026-08-12T14:11:13+00:00",
-        "cog": 255.0,
-        "sog": 8.8,
+        "timestamp_utc": "2026-08-12T15:26:03+00:00",
+        "cog": 254.0,
+        "sog": 8.3,
         "navigational_status": 0,
         "wetterzustand": "Sonnig",
-        "luftdruck": 1029.8,
-        "windrichtung": 19.0,
-        "windstaerke": 7.6,
-        "bewoelkung": 8.0,
-        "lufttemperatur": 16.4,
-        "wassertemperatur": 19.9,
+        "luftdruck": 1029.5,
+        "windrichtung": 77.0,
+        "windstaerke": 8.1,
+        "bewoelkung": 3.0,
+        "lufttemperatur": 16.9,
+        "wassertemperatur": 20.1,
         "niederschlag": 0.0,
         "wellenhoehe": 0.04
       }
