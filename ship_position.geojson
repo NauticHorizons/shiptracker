@@ -2783,6 +2783,33 @@
         "niederschlag": 0.0,
         "wellenhoehe": 0.4
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51944,
+          54.83296
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "16.08.2026",
+        "timestamp_utc": "2026-08-16T07:47:04+00:00",
+        "cog": 213.0,
+        "sog": 6.9,
+        "navigational_status": 0,
+        "wetterzustand": "\u00dcberwiegend klar",
+        "luftdruck": 1015.5,
+        "windrichtung": 284.0,
+        "windstaerke": 17.8,
+        "bewoelkung": 39.0,
+        "lufttemperatur": 17.7,
+        "wassertemperatur": 19.7,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.38
+      }
     }
   ]
 }
