@@ -2843,26 +2843,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.45845,
-          54.96346
+          10.56977,
+          55.03856
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "18.08.2026",
-        "timestamp_utc": "2026-08-18T09:52:52+00:00",
-        "cog": 2.6,
-        "sog": 1.8,
-        "navigational_status": 8,
+        "timestamp_utc": "2026-08-18T10:52:04+00:00",
+        "cog": 60.0,
+        "sog": 8.6,
+        "navigational_status": 0,
         "wetterzustand": "Teilweise bew\u00f6lkt",
-        "luftdruck": 1008.6,
-        "windrichtung": 279.0,
-        "windstaerke": 16.2,
-        "bewoelkung": 72.0,
-        "lufttemperatur": 15.3,
-        "wassertemperatur": 19.4,
+        "luftdruck": 1008.1,
+        "windrichtung": 258.0,
+        "windstaerke": 20.9,
+        "bewoelkung": 68.0,
+        "lufttemperatur": 18.1,
+        "wassertemperatur": 19.5,
         "niederschlag": 0.0,
-        "wellenhoehe": 0.22
+        "wellenhoehe": 0.2
       }
     }
   ]
