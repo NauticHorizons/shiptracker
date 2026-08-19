@@ -6401,14 +6401,18 @@
           [
             9.81409,
             54.88244
+          ],
+          [
+            9.78438,
+            54.9077
           ]
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "start_time": "2025-10-17T08:39:46+00:00",
-        "end_time": "2026-08-19T14:55:53+00:00",
-        "total_points": 1599,
+        "end_time": "2026-08-19T16:13:53+00:00",
+        "total_points": 1600,
         "track_type": "AIS_position_reports"
       }
     }
