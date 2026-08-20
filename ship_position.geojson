@@ -2897,25 +2897,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.06182,
-          54.66267
+          10.05922,
+          54.61266
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "20.08.2026",
-        "timestamp_utc": "2026-08-20T10:48:02+00:00",
-        "cog": 180.0,
-        "sog": 6.9,
+        "timestamp_utc": "2026-08-20T11:13:42+00:00",
+        "cog": 183.0,
+        "sog": 7.0,
         "navigational_status": 0,
-        "wetterzustand": "Leichter Regen",
-        "luftdruck": 1004.5,
-        "windrichtung": 224.0,
-        "windstaerke": 16.0,
-        "bewoelkung": 100.0,
-        "lufttemperatur": 17.1,
-        "wassertemperatur": 19.7,
-        "niederschlag": 0.4,
+        "wetterzustand": "Leichte Regenschauer",
+        "luftdruck": 1004.4,
+        "windrichtung": 229.0,
+        "windstaerke": 16.6,
+        "bewoelkung": 99.0,
+        "lufttemperatur": 17.5,
+        "wassertemperatur": 19.9,
+        "niederschlag": 0.6,
         "wellenhoehe": 0.06
       }
     }
