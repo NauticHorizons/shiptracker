@@ -5,12 +5,12 @@
     "windrichtung": 300,
     "windstaerke": 7.1,
     "bewoelkung": 100,
-    "lufttemperatur": 14.1,
+    "lufttemperatur": 13.8,
     "niederschlag": 0.0,
     "wassertemperatur": 19.7,
     "wellenhoehe": 0.16
   },
-  "timestamp_utc": "2026-08-21T21:06:11+00:00",
+  "timestamp_utc": "2026-08-21T21:39:30+00:00",
   "PositionReport": {
     "Cog": 360,
     "CommunicationState": 999,
@@ -36,6 +36,6 @@
     "ShipName": "REGINA MARIS",
     "latitude": 54.33573,
     "longitude": 10.15739,
-    "time_utc": "2026-08-21T21:06:11+00:00"
+    "time_utc": "2026-08-21T21:39:30+00:00"
   }
 }
