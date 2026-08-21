@@ -2924,25 +2924,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.19656,
-          54.39236
+          10.17106,
+          54.36548
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "21.08.2026",
-        "timestamp_utc": "2026-08-21T10:52:01+00:00",
-        "cog": 191.0,
-        "sog": 6.3,
+        "timestamp_utc": "2026-08-21T11:10:01+00:00",
+        "cog": 203.0,
+        "sog": 6.5,
         "navigational_status": 0,
-        "wetterzustand": "Leichter Regen",
-        "luftdruck": 1008.6,
-        "windrichtung": 241.0,
-        "windstaerke": 10.3,
+        "wetterzustand": "M\u00e4\u00dfiger Regen",
+        "luftdruck": 1008.7,
+        "windrichtung": 264.0,
+        "windstaerke": 6.9,
         "bewoelkung": 100.0,
-        "lufttemperatur": 17.5,
+        "lufttemperatur": 16.8,
         "wassertemperatur": 19.7,
-        "niederschlag": 0.4,
+        "niederschlag": 2.5,
         "wellenhoehe": 0.12
       }
     }
