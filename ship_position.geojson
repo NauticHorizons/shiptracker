@@ -2978,23 +2978,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.45853,
-          54.96496
+          10.58023,
+          55.04032
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "25.08.2026",
-        "timestamp_utc": "2026-08-25T10:55:22+00:00",
-        "cog": 15.0,
-        "sog": 4.9,
+        "timestamp_utc": "2026-08-25T11:47:41+00:00",
+        "cog": 82.0,
+        "sog": 7.3,
         "navigational_status": 0,
         "wetterzustand": "Sonnig",
         "luftdruck": 1020.8,
-        "windrichtung": 121.0,
-        "windstaerke": 10.8,
-        "bewoelkung": 2.0,
-        "lufttemperatur": 19.0,
+        "windrichtung": 84.0,
+        "windstaerke": 10.4,
+        "bewoelkung": 0.0,
+        "lufttemperatur": 22.5,
         "wassertemperatur": 18.9,
         "niederschlag": 0.0,
         "wellenhoehe": 0.02
