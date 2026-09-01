@@ -3112,26 +3112,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.11645,
-          54.65183
+          10.1574,
+          54.33571
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "01.09.2026",
-        "timestamp_utc": "2026-09-01T10:40:02+00:00",
-        "cog": 159.0,
-        "sog": 8.8,
-        "navigational_status": 0,
-        "wetterzustand": "Bedeckt",
-        "luftdruck": 1013.5,
-        "windrichtung": 268.0,
-        "windstaerke": 33.1,
-        "bewoelkung": 100.0,
-        "lufttemperatur": 19.0,
-        "wassertemperatur": 18.9,
+        "timestamp_utc": "2026-09-01T15:24:51+00:00",
+        "cog": 360.0,
+        "sog": 0.0,
+        "navigational_status": 8,
+        "wetterzustand": "Leichte Regenschauer",
+        "luftdruck": 1015.8,
+        "windrichtung": 269.0,
+        "windstaerke": 14.0,
+        "bewoelkung": 73.0,
+        "lufttemperatur": 18.5,
+        "wassertemperatur": 19.0,
         "niederschlag": 0.0,
-        "wellenhoehe": 0.4
+        "wellenhoehe": 0.32
       }
     }
   ]
