@@ -3160,6 +3160,33 @@
         "niederschlag": 0.0,
         "wellenhoehe": 0.86
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51206,
+          54.8119
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "06.09.2026",
+        "timestamp_utc": "2026-09-06T06:33:31+00:00",
+        "cog": 206.1,
+        "sog": 6.3,
+        "navigational_status": 8,
+        "wetterzustand": "Sonnig",
+        "luftdruck": 1022.5,
+        "windrichtung": 295.0,
+        "windstaerke": 26.9,
+        "bewoelkung": 0.0,
+        "lufttemperatur": 14.8,
+        "wassertemperatur": 18.0,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.74
+      }
     }
   ]
 }
