@@ -3328,24 +3328,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.21824,
-          53.93878
+          9.15489,
+          53.90067
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "14.09.2026",
-        "timestamp_utc": "2026-09-14T19:32:20+00:00",
-        "cog": 219.4,
-        "sog": 6.9,
+        "timestamp_utc": "2026-09-14T22:50:21+00:00",
+        "cog": 360.0,
+        "sog": 0.0,
         "navigational_status": 8,
-        "wetterzustand": "\u00dcberwiegend klar",
-        "luftdruck": 1021.1,
-        "windrichtung": 114.0,
-        "windstaerke": 7.1,
-        "bewoelkung": 10.0,
-        "lufttemperatur": 13.6,
-        "wassertemperatur": 17.7,
+        "wetterzustand": "Bedeckt",
+        "luftdruck": 1020.4,
+        "windrichtung": 159.0,
+        "windstaerke": 12.3,
+        "bewoelkung": 97.0,
+        "lufttemperatur": 14.9,
+        "wassertemperatur": 17.6,
         "niederschlag": 0.0
       }
     }
