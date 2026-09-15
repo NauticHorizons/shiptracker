@@ -3348,6 +3348,33 @@
         "wassertemperatur": 17.6,
         "niederschlag": 0.0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75826,
+          53.8546
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "15.09.2026",
+        "timestamp_utc": "2026-09-15T06:15:22+00:00",
+        "cog": 309.0,
+        "sog": 10.8,
+        "navigational_status": 0,
+        "wetterzustand": "Bedeckt",
+        "luftdruck": 1017.0,
+        "windrichtung": 201.0,
+        "windstaerke": 15.0,
+        "bewoelkung": 88.0,
+        "lufttemperatur": 17.1,
+        "wassertemperatur": 17.3,
+        "niederschlag": 0.0,
+        "wellenhoehe": 0.48
+      }
     }
   ]
 }
