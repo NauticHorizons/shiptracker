@@ -3402,6 +3402,32 @@
         "niederschlag": 0.4,
         "wellenhoehe": 0.96
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7024,
+          52.4395
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "16.10.2026",
+        "timestamp_utc": "2026-10-16T14:52:31+00:00",
+        "cog": 128.8,
+        "sog": 7.5,
+        "navigational_status": 0,
+        "wetterzustand": "Starker Spr\u00fchregen",
+        "luftdruck": 1018.3,
+        "windrichtung": 358.0,
+        "windstaerke": 16.6,
+        "bewoelkung": 100.0,
+        "lufttemperatur": 15.3,
+        "wassertemperatur": 16.5,
+        "niederschlag": 0.3
+      }
     }
   ]
 }
