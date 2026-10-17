@@ -3433,26 +3433,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.62034,
-          52.46466
+          4.57898,
+          52.45871
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "17.10.2026",
-        "timestamp_utc": "2026-10-17T16:26:40+00:00",
-        "cog": 271.0,
-        "sog": 8.1,
-        "navigational_status": 0,
+        "timestamp_utc": "2026-10-17T18:53:45+00:00",
+        "cog": 360.0,
+        "sog": 0.0,
+        "navigational_status": 1,
         "wetterzustand": "Sonnig",
-        "luftdruck": 1028.1,
-        "windrichtung": 13.0,
-        "windstaerke": 16.9,
+        "luftdruck": 1027.6,
+        "windrichtung": 7.0,
+        "windstaerke": 16.6,
         "bewoelkung": 0.0,
-        "lufttemperatur": 12.7,
+        "lufttemperatur": 12.6,
         "wassertemperatur": 16.2,
         "niederschlag": 0.0,
-        "wellenhoehe": 1.56
+        "wellenhoehe": 1.48
       }
     }
   ]
