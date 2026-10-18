@@ -3454,6 +3454,33 @@
         "niederschlag": 0.0,
         "wellenhoehe": 1.48
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56996,
+          52.46409
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "18.10.2026",
+        "timestamp_utc": "2026-10-18T06:41:38+00:00",
+        "cog": 286.9,
+        "sog": 7.1,
+        "navigational_status": 0,
+        "wetterzustand": "Leichter Spr\u00fchregen",
+        "luftdruck": 1027.6,
+        "windrichtung": 48.0,
+        "windstaerke": 18.0,
+        "bewoelkung": 100.0,
+        "lufttemperatur": 10.1,
+        "wassertemperatur": 15.9,
+        "niederschlag": 0.1,
+        "wellenhoehe": 1.12
+      }
     }
   ]
 }
