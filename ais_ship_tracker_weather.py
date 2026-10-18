@@ -851,16 +851,26 @@ async def process_and_save_ship_data(ship_data, latest_entry, latest_entry_time,
 # GEOJSON GENERATION
 # ============================================================================
 
+
 def create_ship_track_geojson(csv_file, output_file=None):
     """Convert AIS position reports CSV to GeoJSON track format (LineString)."""
     df = pd.read_csv(csv_file)
     df.columns = df.columns.str.strip()
     df['timestamp_utc'] = df['timestamp_utc'].apply(parse_timestamp_with_tz)
+
+    # Neue Reise vom 17.10.2026 bis 18.04.2027
+    start_date = pd.Timestamp("2026-10-17", tz="UTC")
+    end_date = pd.Timestamp("2027-04-19", tz="UTC")
+
+    df = df[
+        (pd.to_datetime(df['timestamp_utc'], utc=True) >= start_date) &
+        (pd.to_datetime(df['timestamp_utc'], utc=True) < end_date)
+    ]
+
     df = df.sort_values('timestamp_utc')
     df = df.dropna(subset=['latitude', 'longitude'])
     df = df[(df['latitude'] >= -90) & (df['latitude'] <= 90)]
     df = df[(df['longitude'] >= -180) & (df['longitude'] <= 180)]
-
     geojson_features = []
 
     for mmsi, ship_data in df.groupby('mmsi'):
@@ -900,10 +910,21 @@ def create_ship_position_geojson(csv_file, output_file=None):
     df = pd.read_csv(csv_file)
     df.columns = df.columns.str.strip()
     df['timestamp_utc'] = pd.to_datetime(df['timestamp_utc'].apply(parse_timestamp_with_tz), utc=True)
+
+    # Neue Reise vom 17.10.2026 bis 18.04.2027
+    start_date = pd.Timestamp("2026-10-17", tz="UTC")
+    end_date = pd.Timestamp("2027-04-19", tz="UTC")
+
+    df = df[
+        (df['timestamp_utc'] >= start_date) &
+        (df['timestamp_utc'] < end_date)
+    ]
+
     df = df.dropna(subset=['latitude', 'longitude'])
     df = df[(df['latitude'] >= -90) & (df['latitude'] <= 90)]
     df = df[(df['longitude'] >= -180) & (df['longitude'] <= 180)]
     df['date'] = df['timestamp_utc'].dt.date
+
 
     geojson_features = []
 
