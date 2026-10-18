@@ -5,13 +5,38 @@
       "type": "Feature",
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [
+          [
+            4.62034,
+            52.46466
+          ],
+          [
+            4.57898,
+            52.45871
+          ],
+          [
+            4.56996,
+            52.46409
+          ],
+          [
+            3.97351,
+            52.01795
+          ],
+          [
+            3.45941,
+            51.73006
+          ],
+          [
+            3.04436,
+            51.47234
+          ]
+        ]
       },
       "properties": {
         "mmsi": 244528000,
-        "start_time": "2026-10-17T00:00:00+00:00",
-        "end_time": "2027-04-18T23:59:59+00:00",
-        "total_points": 0,
+        "start_time": "2026-10-17T16:26:40+00:00",
+        "end_time": "2026-10-18T18:10:38+00:00",
+        "total_points": 6,
         "track_type": "AIS_position_reports"
       }
     }
