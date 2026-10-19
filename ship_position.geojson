@@ -60,24 +60,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.15224,
-          50.91529
+          0.09876,
+          50.56002
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "date": "19.10.2026",
-        "timestamp_utc": "2026-10-19T05:25:16+00:00",
-        "cog": 219.5,
-        "sog": 7.1,
+        "timestamp_utc": "2026-10-19T11:19:42+00:00",
+        "cog": 252.0,
+        "sog": 7.3,
         "navigational_status": 0,
-        "wetterzustand": "Teilweise bew\u00f6lkt",
-        "luftdruck": 1026.1,
-        "windrichtung": 117.0,
-        "windstaerke": 19.1,
-        "bewoelkung": 61.0,
-        "lufttemperatur": 11.8,
-        "wassertemperatur": 17.4,
+        "wetterzustand": "Bedeckt",
+        "luftdruck": 1025.2,
+        "windrichtung": 115.0,
+        "windstaerke": 24.8,
+        "bewoelkung": 80.0,
+        "lufttemperatur": 12.2,
+        "wassertemperatur": 17.8,
         "niederschlag": 0.0,
         "wellenhoehe": 0.58
       }
