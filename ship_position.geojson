@@ -261,6 +261,24 @@
         "sog": 3.5,
         "navigational_status": 0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41603,
+          28.2525
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "15.11.2026",
+        "timestamp_utc": "2026-11-15T02:44:57+00:00",
+        "cog": 282.4,
+        "sog": 7.7,
+        "navigational_status": 8
+      }
     }
   ]
 }
