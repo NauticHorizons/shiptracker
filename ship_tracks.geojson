@@ -177,14 +177,18 @@
           [
             -16.24382,
             28.4645
+          ],
+          [
+            -16.24384,
+            28.4645
           ]
         ]
       },
       "properties": {
         "mmsi": 244528000,
         "start_time": "2026-10-17T16:26:40+00:00",
-        "end_time": "2026-11-15T17:12:08+00:00",
-        "total_points": 43,
+        "end_time": "2026-11-20T01:00:20+00:00",
+        "total_points": 44,
         "track_type": "AIS_position_reports"
       }
     }
