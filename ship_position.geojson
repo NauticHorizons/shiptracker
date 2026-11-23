@@ -315,6 +315,24 @@
         "niederschlag": 0.0,
         "wellenhoehe": 1.12
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.37882,
+          27.46662
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "23.11.2026",
+        "timestamp_utc": "2026-11-23T01:59:58+00:00",
+        "cog": 180.0,
+        "sog": 5.5,
+        "navigational_status": 0
+      }
     }
   ]
 }
