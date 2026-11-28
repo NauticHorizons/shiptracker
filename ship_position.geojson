@@ -360,6 +360,24 @@
         "sog": 7.3,
         "navigational_status": 0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.99523,
+          16.88699
+        ]
+      },
+      "properties": {
+        "mmsi": 244528000,
+        "date": "28.11.2026",
+        "timestamp_utc": "2026-11-28T20:45:42+00:00",
+        "cog": 255.0,
+        "sog": 0.4,
+        "navigational_status": 0
+      }
     }
   ]
 }
